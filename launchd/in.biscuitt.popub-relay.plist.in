@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>moe.biscuit.popub-relay</string>
+    <string>in.biscuitt.popub-relay</string>
     <key>ProgramArguments</key>
     <array>
         <string>@PREFIX@/bin/popub-relay</string>
